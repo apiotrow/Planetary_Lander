@@ -2,7 +2,7 @@
 
 Developers: Paul Kasum, Aaron Piotrowski, Vernon Wong, Jacky Chiu
 
-https://rawgit.com/apiotrow/PlanetaryLander/master/PlanetaryLanderFinalBuildWebPlayer/PlanetaryLanderFinalBuildWebPlayer.html
+https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
 
 
 W - Tilt Forward (Pitch Down)
