@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\seebright\Scripts\SeebrightSDK.cs">
+    <Files>
+      <File FileName="Assets\seebright\Scripts\SeebrightSDK.cs" Line="76" Column="84" />
+      <File FileName="Assets\Scripts\FighterMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\PlayerController.cs" Line="42" Column="27" />
+      <File FileName="Assets\seebright\Scripts\SBRemote.cs" Line="161" Column="8" />
+      <File FileName="Assets\Scripts\PositionRaycast.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VorticesEnable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameSpaceMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CheckpointManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraSwitch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Visibility.cs" Line="1" Column="1" />
+      <File FileName="Assets\TeleportPad.cs" Line="16" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 99e300a92763b234b9024158b31ab4a5
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {instanceID: 0}
+  - beacon: {fileID: 100000, guid: bd49b0d31ce498b48a537074b662e3e0, type: 2}
+  - pt: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
