@@ -1,6 +1,10 @@
 3D flight sim/adeventure game modeled after Lunar Lander.
 
-Developers: Paul Kasum, Aaron Piotrowski, Vernon Wong, Jacky Chiu
+Collaborators:
+    Paul Kasum
+    Aaron Piotrowski
+    Vernon Wong
+    Jacky Chiu
 
 https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
 
