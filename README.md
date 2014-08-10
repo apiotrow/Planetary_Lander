@@ -1,4 +1,4 @@
-3D flight sim/adeventure game modeled after Lunar Lander.
+3D flight sim/adeventure game modeled after Lunar Lander. It was hacked out in a couple of weeks in a game design course.
 
 Collaborators:
     Paul Kasum, 
