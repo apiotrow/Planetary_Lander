@@ -1,4 +1,4 @@
-3D flight sim/adeventure game modeled after Lunar Lander. Built in Unity. It was hacked out in a couple of weeks in a game design course.
+3D flight sim/adeventure game modeled after Lunar Lander. Built in Unity. We hacked it out in a couple of weeks, as the second project in our game design course.
 
 Collaborators:
     Paul Kasum, 
