@@ -8,7 +8,9 @@ Collaborators:
 
 Playable Web Version: https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
 
-Design Doc: https://raw.githubusercontent.com/apiotrow/Planetary_Lander/master/pldd.png
+Design Doc: 
+![Design Doc](https://raw.githubusercontent.com/apiotrow/Planetary_Lander/master/pldd.png)
+
 
 
 W - Tilt Forward (Pitch Down)
