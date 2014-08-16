@@ -59,6 +59,7 @@ Fuel:
 When your fuel runs out, you die. Fuel can be refilled by flying through the spinning gears present in some levels.
 
 
+<b>Controls:</b>
 
 W - Tilt Forward (Pitch Down)
 
