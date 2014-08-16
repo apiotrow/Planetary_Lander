@@ -2,13 +2,13 @@
 
 -------------------------------------------------
 
-Collaborators:
+<b>Collaborators:</b>
     Paul Kasum, 
     Aaron Piotrowski, 
     Vernon Wong, 
     Jacky Chiu
 
-Playable Web Version: https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
+<b>Playable Web Version:</b> https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
 
 <b>Genre:</b>
 Adventure/Flight-simulator
