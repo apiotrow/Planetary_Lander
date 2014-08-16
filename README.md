@@ -10,14 +10,15 @@ Collaborators:
 
 Playable Web Version: https://rawgit.com/apiotrow/Planetary_Lander/master/FinalBuild2WebPlayer/FinalBuild2WebPlayer.html
 
-Genre:
+<b>Genre:</b>
 Adventure/Flight-simulator
  
-High Concept:
+<b>High Concept:</b>
 A Planetary Lander has to navigate just above the surface of alien terrain in order to accomplish specific goals.
 
-Design Doc: 
+<b>Design Doc:</b> 
 ![Design Doc](https://raw.githubusercontent.com/apiotrow/Planetary_Lander/master/pldd.png)
+
 
 
 <b>Levels</b>
