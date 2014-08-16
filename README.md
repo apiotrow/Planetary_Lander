@@ -42,6 +42,7 @@ Level 6: RETURN TO BASE
 Get back to base before the time runs out. Be careful about fuel management though. Hazards will be added at a later time.
 
 
+
 <b>Other Screens</b>
 
 Introductory Screen:
@@ -51,12 +52,15 @@ Each of the 3 terrains is a different level. To enter a level, fly your craft to
 Game Over Screen:
 You arrive here when you’ve died due to your health hitting 0 or your fuel hitting 0. Use the mouse to select one of the two options.
  
+ 
+ 
 <b>Important Metrics</b>
  
 Health:
 Health is diminished by colliding with terrain. When your health reaches 0, you die.
 Fuel:
 When your fuel runs out, you die. Fuel can be refilled by flying through the spinning gears present in some levels.
+
 
 
 <b>Controls:</b>
